@@ -1,5 +1,5 @@
 # Test de rendu avec markdown et du code
-```javascript
+```jsx
 ReactDOM.render(
   <h1>Hello, world!</h1>,
   document.getElementById('root')
