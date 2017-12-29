@@ -6,4 +6,5 @@ const myFunction = () => {
   const tab = [1, 2, 3];
   
   console.log(tab.join(','));
-}ï
+}
+```
