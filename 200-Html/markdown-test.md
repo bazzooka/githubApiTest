@@ -1,5 +1,11 @@
 # Test de rendu avec markdown et du code
 ```javascript
+ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);
+```
+```javascript
 const myVar = 'toto';
 console.log(myVar);
 const myFunction = () => {
