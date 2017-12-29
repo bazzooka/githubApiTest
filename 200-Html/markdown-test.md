@@ -8,3 +8,11 @@ const myFunction = () => {
   console.log(tab.join(','));
 }
 ```
+# Css test
+```css
+.myClass {
+  background-color: #F50;
+  display: flex;
+  flex: 1 0 auto;
+}
+```
