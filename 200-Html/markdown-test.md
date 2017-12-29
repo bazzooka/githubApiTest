@@ -1,5 +1,5 @@
 # Test de rendu avec markdown et du code
-```js
+```javascript
 const myVar = 'toto';
 console.log(myVar);
 const myFunction = () => {
