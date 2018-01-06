@@ -27,14 +27,15 @@ Vous travailler sur votre nouvelle fonctionnalité et cela vous amène à modifi
 la représentation des users dans votre base de données. Pourquoi pas, vous êtes sûr de vous.
 
 Dans le même temps, un de vos collegues travaille sur une autre fonctionnalité qui l'amène à
-faire une autre représentation des users dans la BDD.
+faire une autre représentation des users dans la BDD. Vous avez donc travailler sur le même
+bout de code.
 
 Que se passe t-il ? Qui a raison ? Comment gère t-on le problème ?
 Nous verrons comment GIT permet de gérer facilement ce genre de conflit.
 
 ## Problème 2 - la gestion des versions
 Cette fois on vous a demandé de fixer un bug dans le calcul du panier
-lors des commandes. Personne ne pourra plus avoir un panier négatif... vous êtes fier de vous.
+lors des commandes. Vous avez trouver le bug, vous êtes fier de vous.
 Vous avez modifier plus d'une centaine de fichiers.
 
 Votre patch est déployé... tout se passe bien... par contre un autre bug plus grave est apparu
@@ -44,7 +45,7 @@ Il faut revenir en arrière, juste avant la mise en place de votre patch.
 Vous vous imaginez re-modifier la centaine de fichiers que vous aviez modifier ? Ou chercher le bug 
 à taton ? Encore une fois GIT vous permettra de gérer ces cas délicats.
 
-## Représentation de GIT
+## Représentation mentale de GIT
 
 Vous pouvez imaginer que sur GIT votre projet est stocké comme sur votre disque dur, 
 dans un répertoire. Ce répertoire racine de votre projet est appelé `repository`.
