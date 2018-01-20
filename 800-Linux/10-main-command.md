@@ -87,6 +87,8 @@ le paramètre `-h` ou `--help` qui vous permettront d'avoir une explication sur 
 options de la commande.
 Par exemple, `ls --help`
 
+Pour sortir de la documentation il suffit d'appuyer sur la touche `q`
+pour **Q**uitter.
 
 ## DOCUMENTATION
 
