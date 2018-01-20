@@ -88,9 +88,8 @@ options de la commande.
 Par exemple, `ls --help`
 
 Pour sortir de la documentation il suffit d'appuyer sur la touche `q`
-pour **Q**uitter.<span title="This is a tooltip example">tooltip.</span>
+pour **Q**uitter.
 
-<span title="This is a tooltip example">tooltip.</span>
 ===STRONG TEXT|STRONG POPUP===
 
 ## DOCUMENTATION
