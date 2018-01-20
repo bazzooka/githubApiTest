@@ -90,6 +90,9 @@ Par exemple, `ls --help`
 Pour sortir de la documentation il suffit d'appuyer sur la touche `q`
 pour **Q**uitter.<span title="This is a tooltip example">tooltip.</span>
 
+<span title="This is a tooltip example">tooltip.</span>
+===STRONG TEXT|STRONG POPUP===
+
 ## DOCUMENTATION
 
 - [Linux Help](https://www.computerhope.com/unix.htm)
