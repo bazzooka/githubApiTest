@@ -70,6 +70,7 @@ récupérant les informations du remote puis de pousser toutes les informations.
 On parle de `pull` quand on récupère du code sur le `remote repository` et qu'on met
 à jour son `local repository`
 On parle de `push` quand on met à jour le `remote repository` avec le contenu de son `local repository`.
+Un `commit` représente une modification du code que j'ai fait.
 
 ### Github
 
