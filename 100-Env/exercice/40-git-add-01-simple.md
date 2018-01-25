@@ -7,6 +7,6 @@
   * une balise html permettant d'indiquer le format
   * une balise head
   * une balise title
-  * une balise body dans laquelle vous écrirez: **STACKERINE+<VOTRE PRENOM>**
+  * une balise body dans laquelle vous écrirez: **STACKERINE+ \<VOTRE PRENOM\>**
 * Quel est l'état de votre `repository` ?
-* * Marquez ce fichier comme `stagged`.
+* Marquez ce fichier comme `stagged`.
