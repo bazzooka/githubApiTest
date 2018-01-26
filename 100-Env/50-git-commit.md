@@ -20,10 +20,15 @@ ces modifications. Je vous rappelle que vous pouvez les déclarer avec la comman
 Pour pousser votre `commit` sur votre `local repository` il vous faudra utiliser la commande:
 `git commit`.
 
--- TODO
+Un `commit` est toujours accompagné d'un message de `commit` qui permet aux autres 
+développeurs de connaitre le contenu du `commit` sans avoir à inspecter son contenu.
 
+Pour `commiter` des fichiers avec un message il faut utiliser la commande: 
+`git commit -m "Mon message de commit"`
+ 
 ## CONCLUSION
-
+La commande `git commit` vous permet donc de faire un packet identifié par un hash et de le 
+`pusher` sur votre **`repository local`**.
 
 ## DOCUMENTATION
 
