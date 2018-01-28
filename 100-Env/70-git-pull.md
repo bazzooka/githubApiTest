@@ -11,6 +11,8 @@ pour mettre à jour votre `local repository`.
 ## COURS
 Comme l'informatique est simple là encore la commande pour mettre à jour votre 
 `local repository` est très simple: `git pull` 
+
+La command permet de mettre à jour votre `local repository` avec les informations du `remote repository`.
  
 ## CONCLUSION
 Vous savez maintenant mettre à jour votre `local repository`. Les exercices de cette leçon 
