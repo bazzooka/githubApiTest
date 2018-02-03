@@ -76,7 +76,7 @@ votre branche, il vous faudra faire `git pull` pour la mettre à jour.
 Une fois sur la branch `develop`, il vous faudra créer votre branche de fix, feature... Vous allez donc créer
 une divergence depuis le dernier `commit` pullé sur `develop`. D'où l'intérêt de bien mettre à jour votre `branch develop`. Pour créer votre branche divergente, utilisez la commande: `git checkout -b nom-de-votre-branch`.
 
-Voud devriez noter que votre invite de commande a changé et vous donne en plus la branche sur laquelle vous travailler.
+Vous devriez noter que votre invite de commande a changé et vous donne en plus la branche sur laquelle vous travailler.
 Une fois sur votre branche, libre à vous de commiter des modifications, des fix... les commandes habituelles
 s'appliquent sans que rien ne change. Vous poussez donc votre branche sur le `remote repository`.
 Pour connaitre la liste des branches:
@@ -84,7 +84,7 @@ Pour connaitre la liste des branches:
 * locales: `git branch`
 * distantes: `git branch --remote`
   Quand vous aurez finis de travailler sur votre branche, la branch `develop` aura elle aussi sûrement avancé. Il vous
-  faudra donc vous récupérer les nouveautés. Pour cela, il voud faudra utiliser la commande: `git rebase develop` pour
+  faudra donc vous récupérer les nouveautés. Pour cela, il vous faudra utiliser la commande: `git rebase develop` pour
   vous `rebaser` sur la branche develop.
   ![Git rebase](https://wac-cdn.atlassian.com/dam/jcr:e4a40899-636b-4988-9774-eaa8a440575b/02.svg?cdnVersion=jm)
 
@@ -121,7 +121,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 GIT vous indique clairement les conflits.
 
-Si vous ouvrez le fichier indiqué en l'occurence `Readme.md` vous découvrirez qu'il a été modifié avec des indications
+Si vous ouvrez le fichier indiqué en l'occurrence `Readme.md` vous découvrirez qu'il a été modifié avec des indications
 de GIT sur les bouts de code qu'il ne sait pas fusionner.
 
 ```bash
