@@ -10,11 +10,11 @@ aussi tout simplement une structure de page avec des titres...
 ## OBJECTIFS
 
 Gagner quelques mots dans le vocabulaire HTML. Nous apprendrons durant ce
-cours l'utilité des balises les plus courantes: 
-- h1, h2, h3...
-- span
-- div
+cours l'utilité des balises les plus courantes:
 
+* h1, h2, h3...
+* span
+* div
 
 ## COURS
 
@@ -22,10 +22,11 @@ cours l'utilité des balises les plus courantes:
 
 Les titres sont représentés grâce aux balises: h1, h2, h3, h4, h5, h6.
 `<h1>`étant le roi des titres et `<h6>`le plus petit titre.
-Normalement la balise `<h1>` n'est présente qu'une fois par page et un 
+Normalement la balise `<h1>` n'est présente qu'une fois par page et un
 titre de type `<h4>` est un sous-titre d'une balise `<h3>` qui doit être
 un sous-titre d'une balise `<h2>`.
-Exemple: 
+Exemple:
+
 ```html
 <h1>Titre de niveau 1</h1>
 <h2>Titre de niveau 2</h2>
@@ -42,7 +43,8 @@ une zone de texte qui est situé sous l'élément suivant.
 Parfois il est nécessaire d'afficher du texte sans retour à la ligne,
 à la suite de l'élément précédent. Pour cela, nous utiisons
 la balise `<span>`.
-Exemple: 
+Exemple:
+
 ```html
 <span>Mon texte est en ligne</span>
 ```
@@ -55,6 +57,7 @@ section. Par exemple, si je souhaite cacher ma barre de navigation qui contient
 plusieurs éléments, je ne vais pas cacher chaque élement un par un, je
 peux directement cacher le conteneur qui représente ma barre de navigation.
 Exemple:
+
 ```html
 <div>
     <h2>Un titre</h2>
@@ -73,10 +76,10 @@ quand il s'agira de styliser votre page: le positionnement des élement.
 Certains ont un positionnement de type `block` et d'autres de type `inline`.
 Comme vous l'aurez deviné, les éléments de type `block` se mettent verticalement
 à la suite les uns des autres, et les élements de type `inline` se mettent
-horizontalement les uns à la suite des autres. 
-
+horizontalement les uns à la suite des autres.
 
 ## DOCUMENTATION
-- [Les titres](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Heading_Elements)
-- [Les textes](https://developer.mozilla.org/fr/docs/Web/HTML/Element/span)
-- [Les containeurs](https://developer.mozilla.org/fr/docs/Web/HTML/Element/div)
+
+* [Les titres](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Heading_Elements)
+* [Les textes](https://developer.mozilla.org/fr/docs/Web/HTML/Element/span)
+* [Les containeurs](https://developer.mozilla.org/fr/docs/Web/HTML/Element/div)

@@ -7,14 +7,13 @@ d'une page web.
 Il sert à écrire du texte, afficher des images...
 C'est le "squelette" d'une page web.
 
-
 ## OBJECTIFS
 
 Nous voulons comprendre en quoi consiste le HTML:
-- Qu'est ce qu'un document structuré ?
-- Qu'est ce qu'une balise ?
-- Comment écrire une page HTML ?
 
+* Qu'est ce qu'un document structuré ?
+* Qu'est ce qu'une balise ?
+* Comment écrire une page HTML ?
 
 ## COURS
 
@@ -37,12 +36,12 @@ au navigateur qu'il doit en faire quelque chose:
 On peut ensuite écrire le texte que l'on veut afficher sur la page web.
 `<p>Bonjour tout le monde`
 
-On dit que `<p>` est une __balise__ (`tag` en anglais).
+On dit que `<p>` est une **balise** (`tag` en anglais).
 
 Le langage HTML est tout simplement un ensemble de balises.
 
 Pour aider le navigateur à bien afficher le texte, nous devons lui dire quand
-notre paragraphe est fini: pour cela on utilise une __balise fermante__:
+notre paragraphe est fini: pour cela on utilise une **balise fermante**:
 C'est la même avec un `/` avant le nom de la balise.
 Donc pour un paragraphe, la balise fermante sera `</p>`.
 
@@ -50,15 +49,15 @@ La façon propre d'écrire un paragraphe est donc:
 `<p>Bonjour tout le monde</p>`
 
 En résumé:
-- `<p>` est la balise ouvrante: le paragraphe commence
-- `Bonjour tout le monde` est le contenu de la balise
-- `</p>` est la balise fermante: le paragraphe est terminé
-- Tout ça ensemble forme un __élément__.
+
+* `<p>` est la balise ouvrante: le paragraphe commence
+* `Bonjour tout le monde` est le contenu de la balise
+* `</p>` est la balise fermante: le paragraphe est terminé
+* Tout ça ensemble forme un **élément**.
 
 Il existe plusieurs dizaines de balises, avec chacune leur utilité (afficher une
 liste, afficher un tableau, afficher une image...).
 
-
 ## DOCUMENTATION
 
-- [MDN](https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Les_bases_HTML)_____
+* [MDN](https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Les_bases_HTML)**\_**

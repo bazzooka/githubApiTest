@@ -1,4 +1,4 @@
-# Niveau 2: Add + Commit 
+# Niveau 2: Add + Commit
 
 * Reprenez le `repository` précédent
 * Quel est l'état de votre `repository` ?

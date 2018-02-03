@@ -2,13 +2,13 @@
 
 Ouvrez la fenêtre d'execution de commande avec le raccourcis `ALT + F2` et
 saisissez `terminal`.
-`Terminal` est une invite de commande et vous permet d'executer des 
+`Terminal` est une invite de commande et vous permet d'executer des
 commandes sur Linux.
 
 La gestion des packets sur Ubuntu se fait grâce à la commande: `apt` qui est
 l'abbréviation de `Advanced Packaging Tool`.
 
-Pour installer un packet il suffit d'utiliser la commande: 
+Pour installer un packet il suffit d'utiliser la commande:
 `apt-get install <nom du packet à installer>`. Installez GIT.
 
 ![Synaptic](https://www.packtpub.com/graphics/9781849517522/graphics/7522_02_11.jpg)
@@ -26,9 +26,3 @@ Bravo `git` est maintenant marqué pour l'installation.
 Procédez à l'installation...
 
 Félicitations, votre machine est prête à utiliser GIT comme `VCS` (Version Control System)
-
- 
-
-
-
-

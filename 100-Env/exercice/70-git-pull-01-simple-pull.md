@@ -2,6 +2,3 @@
 
 * Reprenez le `repository` précédent
 * Récupérez les `commits` du `remote repository`
-
-
-

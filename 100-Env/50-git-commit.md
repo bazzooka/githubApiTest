@@ -1,15 +1,19 @@
 # GIT - COMMIT A FILE TO GIT
 
 ## INTRO
-Les fichiers sont trackés, maintenant nous allons les envoyer sur notre 
+
+Les fichiers sont trackés, maintenant nous allons les envoyer sur notre
 `repository local`.
 
 ## OBJECTIFS
-A la fin de ce cours vous saurez: 
- - créer un `commit`
- - envoyer ce `commit` sur votre `repository local`
+
+A la fin de ce cours vous saurez:
+
+* créer un `commit`
+* envoyer ce `commit` sur votre `repository local`
 
 ## COURS
+
 Alors qu'est-ce qu'un `commit` ? Un `commit` est un état de votre `repository`.
 Il est identfié par un numéro `hash` et représente tous les fichiers que vous avez modifié
 durant la modification.
@@ -20,15 +24,15 @@ ces modifications. Je vous rappelle que vous pouvez les déclarer avec la comman
 Pour pousser votre `commit` sur votre `local repository` il vous faudra utiliser la commande:
 `git commit`.
 
-Un `commit` est toujours accompagné d'un message de `commit` qui permet aux autres 
+Un `commit` est toujours accompagné d'un message de `commit` qui permet aux autres
 développeurs de connaitre le contenu du `commit` sans avoir à inspecter son contenu.
 
-Pour `commiter` des fichiers avec un message il faut utiliser la commande: 
+Pour `commiter` des fichiers avec un message il faut utiliser la commande:
 `git commit -m "Mon message de commit"`
- 
+
 ## CONCLUSION
-La commande `git commit` vous permet donc de faire un packet identifié par un hash et de le 
+
+La commande `git commit` vous permet donc de faire un packet identifié par un hash et de le
 `pusher` sur votre **`repository local`**.
 
 ## DOCUMENTATION
-

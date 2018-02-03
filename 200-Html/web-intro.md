@@ -7,14 +7,13 @@ Le web inclue differentes technologies qui permettent de fonctionner.
 Ces technologies sont ouvertes et gratuites, nous pouvons donc démarrer
 l'apprentissage.
 
-
 ## OBJECTIFS
 
 Nous voulons comprendre comment fonctionne le web dans les grandes lignes:
-- Avoir une idée générale de ce qui se passe quand on tape une URL dans Chrome
-- Comprendre la séparation client / serveur (Front / Back)
-- Connaitre les 3 technologies Front (HTML, CSS, JavaScript)
 
+* Avoir une idée générale de ce qui se passe quand on tape une URL dans Chrome
+* Comprendre la séparation client / serveur (Front / Back)
+* Connaitre les 3 technologies Front (HTML, CSS, JavaScript)
 
 ## COURS
 
@@ -29,22 +28,20 @@ Parfois, le serveur a besoin de faire un peu de travail avant de pouvoir répond
 
 Dès qu'on fait une action sur un site web (chercher sur Google, mettre à jour son statut Facebook, acheter sur Amazon...), on envoie des requêtes aux serveurs du site web (Google, Facebook ou autres...)
 
-
 ### Les langages du web
 
 Lorsque le serveur répond, il renvoie un fichier contenant du code.
 Le navigateur (Chrome) lit ce code et affiche la page web à l'écran.
 
-Ce code est écrit dans un langage appelé __HTML__.
+Ce code est écrit dans un langage appelé **HTML**.
 Il sert à décrire le texte à afficher à l'écran.
 
-Un deuxième langage appelé __CSS__ est utilisé pour aider le navigateur à dire dans quel style il faut afficher ce texte.
+Un deuxième langage appelé **CSS** est utilisé pour aider le navigateur à dire dans quel style il faut afficher ce texte.
 
-Enfin, un troisième langage appelé __JavaScript__ sert à ajouter du comportement à la page, par exemple pour dire ce qu'il doit se passer quand on clique sur un bouton.
-
+Enfin, un troisième langage appelé **JavaScript** sert à ajouter du comportement à la page, par exemple pour dire ce qu'il doit se passer quand on clique sur un bouton.
 
 ## DOCUMENTATION
 
-- Version plus technique de ce cours sur [MDN](https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Le_fonctionnement_du_Web)
+* Version plus technique de ce cours sur [MDN](https://developer.mozilla.org/fr/Apprendre/Commencer_avec_le_web/Le_fonctionnement_du_Web)
 
-- Vidéo d'introduction sur [Youtube](https://youtu.be/qb_Hvve8JKY)
+* Vidéo d'introduction sur [Youtube](https://youtu.be/qb_Hvve8JKY)
