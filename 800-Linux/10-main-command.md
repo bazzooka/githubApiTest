@@ -99,7 +99,7 @@ Par exemple, `ls --help`
 Pour sortir de la documentation il suffit d'appuyer sur la touche `q`
 pour **Q**uitter.
 
-===STRONG TEXT|STRONG POPUP===
+===Je suis une tooltip|tooltipTest===
 
 ## DOCUMENTATION
 
