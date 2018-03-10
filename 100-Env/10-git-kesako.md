@@ -4,7 +4,7 @@
 
 Que vous travaillez seul ou en équipe vous avez besoin d'un gestionnaire de version.
 Il permet de versionner votre code et de retrouver n'importe lequel de ses états.
-GIT permet facilite également le travail en équipe. Nous verrons pourquoi durant ce cours.
+GIT facilite également le travail en équipe. Nous verrons pourquoi durant ce cours.
 
 ## OBJECTIFS
 
@@ -26,12 +26,11 @@ Bravo, belle promotion, vous êtes un nouvel architecte du web !
 
 ## Problème 1 - les conflits
 
-Vous travailler sur votre nouvelle fonctionnalité et cela vous amène à modifier
-la représentation des users dans votre base de données. Pourquoi pas, vous êtes sûr de vous.
+Vous travaillez sur votre nouvelle fonctionnalité et cela vous amène à modifier
+la représentation des users dans votre base de données. Pourquoi pas, vous êtes sûr de vous !
 
 Dans le même temps, un de vos collegues travaille sur une autre fonctionnalité qui l'amène à
-faire une autre représentation des users dans la BDD. Vous avez donc travailler sur le même
-bout de code.
+faire une autre représentation des users dans la ===BDD|BDD===. Vous avez donc travailler sur le même bout de code.
 
 Que se passe t-il ? Qui a raison ? Comment gère t-on le problème ?
 Nous verrons comment GIT permet de gérer facilement ce genre de conflit.
@@ -42,12 +41,11 @@ Cette fois on vous a demandé de fixer un bug dans le calcul du panier
 lors des commandes. Vous avez trouver le bug, vous êtes fier de vous.
 Vous avez modifier plus d'une centaine de fichiers.
 
-Votre patch est déployé... tout se passe bien... par contre un autre bug plus grave est apparu
+Votre ===patch|patch=== est déployé... tout se passe bien... par contre un autre bug plus grave est apparu
 dans un des 100 fichiers et tout le site tombe ! Ouch la boulette !
 
-Il faut revenir en arrière, juste avant la mise en place de votre patch.
-Vous vous imaginez re-modifier la centaine de fichiers que vous aviez modifier ? Ou chercher le bug
-à taton ? Encore une fois GIT vous permettra de gérer ces cas délicats.
+Il faut revenir en arrière, juste avant la mise en place de votre ===patch|patch===.
+Vous vous imaginez re-modifier la centaine de fichiers que vous aviez modifier ? Ou chercher le bug à taton ? Encore une fois GIT vous permettra de gérer ces cas délicats.
 
 ## Représentation mentale de GIT
 
@@ -75,7 +73,7 @@ récupérant les informations du remote puis de pousser toutes les informations.
 On parle de `pull` quand on récupère du code sur le `remote repository` et qu'on met
 à jour son `local repository`
 On parle de `push` quand on met à jour le `remote repository` avec le contenu de son `local repository`.
-Un `commit` représente une modification du code que j'ai fait.
+Un `commit` représente une modification du code que vous avez effectué.
 
 ### Github
 
