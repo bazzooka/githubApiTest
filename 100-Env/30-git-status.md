@@ -17,12 +17,11 @@ Notre objectif est de de:
 
 ## COURS
 
-Imaginons que je travaille sur ma feature, j'ajoute des fichiers mais qu'à un moment j'ai besoin
-de savoir ce que j'ai ajouté dans ma feature ou ce qui va être envoyé au serveur.
-Il me faut donc une commande me permmettant de connaître la liste des fichiers de mon futur `commit`.
+Imaginons que vous travaillez sur votre ===feature|feature===, vous ajoutez des fichiers mais qu'à un moment vous ayez besoin de savoir ce que vous avez ajouté dans votre ===feature|feature=== ou ce qui va être envoyé au serveur.
+Il vous faut donc une commande vous permettant de connaître la liste des fichiers de votre futur `commit`.
 
-Je vous rappelle qu'un `commit` représente un fichier ou un groupe de fichier que j'ai modifié
-et que j'ai envoyé sur mon `local / remote repository`.
+Je vous rappelle qu'un `commit` représente un fichier ou un groupe de fichier que vous avez modifié
+et que vous avez envoyé sur votre `local / remote repository`.
 
 Pour avoir l'état de mes modifications locales il suffit de faire `git status`.
 
