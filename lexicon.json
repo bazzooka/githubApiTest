@@ -1,8 +1,10 @@
 {
   "bdd": "Base de données",
   "feature": "Fonctionnalité",
+  "merge": "Fusionner",
   "patch": "correctif",
   "tagger": "marquer",
   "tracke": "marquer comme ajouté à GIT",
-  "tooltipTest": "Im a tooltip test"
+  "tooltipTest": "Im a tooltip test",
+  "workspace": "Environnement"
 }
