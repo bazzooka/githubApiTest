@@ -2,5 +2,7 @@
   "bdd": "Base de données",
   "feature": "Fonctionnalité",
   "patch": "correctif",
+  "tagger": "marquer",
+  "tracke": "marquer comme ajouté à GIT",
   "tooltipTest": "Im a tooltip test"
 }
